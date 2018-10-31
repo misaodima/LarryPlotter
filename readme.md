@@ -8,4 +8,5 @@
 * Larry Plotter y el misterio del hacker.
 * Larry Plotter y los commits de la muerte.
 
-**Fernando Cordon**, profesor de Git.
+
+**Fernando Cordon**, profesor de Git, iOS y Processing
